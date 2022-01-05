@@ -158,6 +158,12 @@ body {
   	 color: #35465d;
 }
 
+.resultmessage {
+	font-family: NanumSquareR;
+	line-height: 1.67;
+	text-align: center;
+}
+
 .dog-box {
   position: absolute;
   top: 0;
